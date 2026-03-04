@@ -1,0 +1,104 @@
+{
+    "events": [
+        {
+            "duTeam": "Men's Lacrosse",
+            "opponent": "Michigan",
+            "date": "2026-02-28T13:00:00"
+        },
+        {
+            "duTeam": "Women's Tennis",
+            "opponent": "St. Thomas",
+            "date": "2026-02-28T14:00:00"
+        },
+        {
+            "duTeam": "Men's Ice Hockey",
+            "opponent": "Arizona State",
+            "date": "2026-02-28T18:00:00"
+        },
+        {
+            "duTeam": "Women's Golf",
+            "opponent": "More Than A Game Invitational Hosted by the ANNIKA Foundation",
+            "date": "2026-03-01T00:00:00"
+        },
+        {
+            "duTeam": "Women's Tennis",
+            "opponent": "Minnesota",
+            "date": "2026-03-01T10:00:00"
+        },
+        {
+            "duTeam": "Men's Tennis",
+            "opponent": "Air Force",
+            "date": "2026-03-01T11:00:00"
+        },
+        {
+            "duTeam": "Women's Lacrosse",
+            "opponent": "High Point",
+            "date": "2026-03-01T12:00:00"
+        },
+        {
+            "duTeam": "Women's Gymnastics",
+            "opponent": "Utah",
+            "date": "2026-03-01T13:45:00"
+        },
+        {
+            "duTeam": "Women's Golf",
+            "opponent": "More Than A Game Invitational Hosted by the ANNIKA Foundation",
+            "date": "2026-03-02T00:00:00"
+        },
+        {
+            "duTeam": "Women's Golf",
+            "opponent": "More Than A Game Invitational Hosted by the ANNIKA Foundation",
+            "date": "2026-03-03T00:00:00"
+        },
+        {
+            "duTeam": "Women's Lacrosse",
+            "opponent": "Stony Brook",
+            "date": "2026-03-06T10:00:00"
+        },
+        {
+            "duTeam": "Men's Tennis",
+            "opponent": "New Mexico",
+            "date": "2026-03-06T11:00:00"
+        },
+        {
+            "duTeam": "Women's Basketball",
+            "opponent": "South Dakota",
+            "date": "2026-03-06T13:30:00"
+        },
+        {
+            "duTeam": "Women's Gymnastics",
+            "opponent": "Air Force, San Jose State",
+            "date": "2026-03-06T19:00:00"
+        },
+        {
+            "duTeam": "Men's Ice Hockey",
+            "opponent": "Miami",
+            "date": "2026-03-06T19:00:00"
+        },
+        {
+            "duTeam": "Men's Basketball",
+            "opponent": "North Dakota",
+            "date": "2026-03-06T19:30:00"
+        },
+        {
+            "duTeam": "Women's Soccer",
+            "opponent": "Colorado State 8v8 Tournament",
+            "date": "2026-03-07T00:00:00"
+        },
+        {
+            "duTeam": "Women's Basketball",
+            "opponent": "Summit League Tournament",
+            "date": "2026-03-07T11:00:00"
+        },
+        {
+            "duTeam": "Women's Tennis",
+            "opponent": "South Dakota",
+            "date": "2026-03-07T13:00:00"
+        },
+        {
+            "duTeam": "Men's Tennis",
+            "opponent": "Northern Arizona",
+            "date": "2026-03-07T17:00:00"
+        }
+    ]
+}
